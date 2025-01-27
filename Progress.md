@@ -1,2 +1,3 @@
 #Day 1
-![Uploading image.png…]()
+
+I made the extructure, makefile. And i adapted lobby background to low cuality for wii support.
